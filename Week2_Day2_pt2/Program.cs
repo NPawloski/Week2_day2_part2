@@ -38,8 +38,40 @@ namespace Week2_Day2_pt2
             //    checkPatient = Console.ReadLine().ToUpper();
             //}
 
+            //String playAgain;
+
+            //do
+            //{
+            //    Console.WriteLine("Great game!");
+            //    Console.WriteLine("Do you want to play again? (YES/NO)");
+            //    playAgain = Console.ReadLine().ToUpper();
+            //}
+            //while (playAgain == "YES");
+
+            //Console.WriteLine("Thanks for playing, you just lost The Game");
 
 
+            //String addClass;
+            //do
+            //{
+            //    Console.WriteLine("Which class would you like to add to your GPA calculation?");
+            //    String newclass = Console.ReadLine();
+            //    Console.WriteLine("What was the letter grade you got for the class?(no + or -)");
+            //    String letterGrade = Console.ReadLine().ToUpper();
+            //    Console.WriteLine("Would you like to add another class?");
+            //    addClass = Console.ReadLine().ToUpper();
+            //}
+            //while (addClass == "YES");
+
+
+            //for(int i = 1; i <=5; i++)
+            //{
+            //    for (int m = 1; m <=5; m++)
+            //    {
+            //        Console.Write(i*m + " ");
+            //    }
+            //    Console.WriteLine("");
+            //}
 
 
 
